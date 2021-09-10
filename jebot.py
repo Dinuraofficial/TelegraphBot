@@ -69,7 +69,7 @@ async def about(client, message):
 
 <b>♞ Developer:</b> <a href="https://github.com/Dinuraofficial/TelegraphBot">Dinura Uthsar </a>
 
-<b>♞ Support:</b> <a href="https://t.me/slbotzone">SL Botzone</a>
+<b>♞ Support:</b> <a href="https://t.me/slbotzone">SL Bot zone</a>
 
 <b>♞ Library:</b> <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
