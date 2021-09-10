@@ -73,7 +73,7 @@ async def about(client, message):
 
 <b>♞ Library:</b> <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
-<b>~ @DinuraNikalansuriya</b>""",
+ ~ @DinuraNikalansuriya</b>""",
      reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
