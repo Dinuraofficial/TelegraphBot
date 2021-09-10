@@ -1,16 +1,16 @@
 {
     "name": "Telegraph Bot",
     "description": "A bot that can upload photos and video to telegraph.",
-    "logo": "https://telegra.ph/file/df88cd27fc2221d3393be.jpg",
+    "logo": "https://telegra.ph/file/2c8c5753a0945b08a9bd7.jpg",
     "keywords": [
         "Telegraph",
         "Uploader",
         "Telegram Bot",
-        "DsC Officila"
+        "DinuraOfficila"
     ],
-    "website": "https://t.me/DumiduSathara",
-    "repository": "https://github.com/DumiduSathara/DSTelegraphBot",
-    "success_url": "https://t.me/DsC_Offl",
+    "website": "https://t.me/DinuraNikalansuriya",
+    "repository": "https://github.com/Dinuraofficial/TelegraphBot",
+    "success_url": "https://t.me/Telegrap_D_bot",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
