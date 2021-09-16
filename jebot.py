@@ -79,7 +79,7 @@ async def about(client, message):
                                         InlineKeyboardButton(
                                             "Back", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "Source Code", url="https://github.com/DumiduSathara/DSTelegraphBot")
+                                            "Source Code", url="https://github.com/Dinuraofficial/TelegraphBot")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
