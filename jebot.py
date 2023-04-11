@@ -27,7 +27,7 @@ Hit help button to find out more about how to use me</b>""",
                                         InlineKeyboardButton(
                                             "Help", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "Dev 🔥", url="https://t.me/DinuraNikalansuriya")
+                                            "Dev🔥", url="https://t.me/DinuraNikalansuriya")
                                     ],[
                                       InlineKeyboardButton(
                                             "Source Code", url="https://github.com/Dinuraofficial/TelegraphBot")
@@ -44,6 +44,7 @@ async def help(client, message):
                text="""<b>Telegraph Bot Help!
 
 Just send a photo or video less than 5mb file size, I'll upload it to telegraph.
+#වැඩ නෑ whotto,මට හරි වේදනයි.
 
 ~ @DinuraNikalansuriya</b>""",
         reply_markup=InlineKeyboardMarkup(
